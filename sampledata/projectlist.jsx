@@ -1,0 +1,123 @@
+const sampleData = [
+  {
+    project_title: "Project 1",
+    project_description: "Description for Project 1.",
+    project_link: "./project1",
+    lang_used: ["JavaScript", "React", "Node.js"],
+  },
+  {
+    project_title: "Project 2",
+    project_description: "Description for Project 2.",
+    project_link: "./project2",
+    lang_used: ["Python", "Django"],
+  },
+  {
+    project_title: "Project 3",
+    project_description: "Description for Project 3.",
+    project_link: "./project3",
+    lang_used: ["Java", "Spring"],
+  },
+  {
+    project_title: "Project 4",
+    project_description: "Description for Project 4.",
+    project_link: "./project4",
+    lang_used: ["C#", ".NET"],
+  },
+  {
+    project_title: "Project 5",
+    project_description: "Description for Project 5.",
+    project_link: "./project5",
+    lang_used: ["Ruby", "Rails"],
+  },
+  {
+    project_title: "Project 6",
+    project_description: "Description for Project 6.",
+    project_link: "./project6",
+    lang_used: ["PHP", "Laravel"],
+  },
+  {
+    project_title: "Project 7",
+    project_description: "Description for Project 7.",
+    project_link: "./project7",
+    lang_used: ["Swift", "iOS"],
+  },
+  {
+    project_title: "Project 8",
+    project_description: "Description for Project 8.",
+    project_link: "./project8",
+    lang_used: ["Go"],
+  },
+  {
+    project_title: "Project 9",
+    project_description: "Description for Project 9.",
+    project_link: "./project9",
+    lang_used: ["TypeScript", "Angular"],
+  },
+  {
+    project_title: "Project 10",
+    project_description: "Description for Project 10.",
+    project_link: "./project10",
+    lang_used: ["Java", "Kotlin", "Android"],
+  },
+  {
+    project_title: "Project 11",
+    project_description: "Description for Project 11.",
+    project_link: "./project11",
+    lang_used: ["JavaScript", "Vue.js"],
+  },
+  {
+    project_title: "Project 12",
+    project_description: "Description for Project 12.",
+    project_link: "./project12",
+    lang_used: ["Python", "Flask"],
+  },
+  {
+    project_title: "Project 13",
+    project_description: "Description for Project 13.",
+    project_link: "./project13",
+    lang_used: ["C++"],
+  },
+  {
+    project_title: "Project 14",
+    project_description: "Description for Project 14.",
+    project_link: "./project14",
+    lang_used: ["Ruby", "Sinatra"],
+  },
+  {
+    project_title: "Project 15",
+    project_description: "Description for Project 15.",
+    project_link: "./project15",
+    lang_used: ["PHP", "Symfony"],
+  },
+  {
+    project_title: "Project 16",
+    project_description: "Description for Project 16.",
+    project_link: "./project16",
+    lang_used: ["Java", "Spring Boot"],
+  },
+  {
+    project_title: "Project 17",
+    project_description: "Description for Project 17.",
+    project_link: "./project17",
+    lang_used: ["Python", "FastAPI"],
+  },
+  {
+    project_title: "Project 18",
+    project_description: "Description for Project 18.",
+    project_link: "./project18",
+    lang_used: ["JavaScript", "Express"],
+  },
+  {
+    project_title: "Project 19",
+    project_description: "Description for Project 19.",
+    project_link: "./project19",
+    lang_used: ["Python", "Pyramid"],
+  },
+  {
+    project_title: "Project 20",
+    project_description: "Description for Project 20.",
+    project_link: "./project20",
+    lang_used: ["TypeScript", "React"],
+  },
+];
+export default sampleData;
